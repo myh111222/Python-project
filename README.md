@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 # Python-project
 some test code in python
-=======
-# Python_exercise_with_selenium and pytest framwork
+======
+
+# Python exercise with selenium and pytest framwork
+
+
 >>>>>>> new
